@@ -1,2 +1,2 @@
-# Coding-Propositional-Logic
+# PIONELO, Philip Julrenz A.
 Discrete Mathematics
